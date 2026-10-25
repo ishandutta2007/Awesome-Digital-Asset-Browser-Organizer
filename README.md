@@ -1,7 +1,7 @@
 # Awesome-Digital-Asset-Browser-Organizer
 # Awesome-Digital-Asset-Browser-Organizer
 
-# Top Digital Asset Browser & Organizer
+## Top Digital Asset Browser & Organizer
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 
 *Focused on Digital Asset Browsing, Photo Organization, Cataloging, Metadata Management & Local Asset Libraries*
