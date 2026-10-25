@@ -113,12 +113,12 @@
     </text>
 
     <!-- Main Title -->
-    <text x="600" y="148" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="url(#primaryText)" letter-spacing="-0.5">
-      Digital Asset Browser &amp; Organizer
+    <text class="title" x="600" y="148" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="url(#primaryText)" letter-spacing="-0.5">
+      Awesome Digital Asset Browser &amp; Organizer
     </text>
 
     <!-- Subtitle / Tagline -->
-    <text x="600" y="196" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#e2e8f0" letter-spacing="0.2">
+    <text class="subtitle" x="600" y="196" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#e2e8f0" letter-spacing="0.2">
       The definitive directory of high-performance SaaS platforms &amp; open-source DAM systems
     </text>
 
@@ -148,7 +148,7 @@
 
     <!-- Bottom Stat bar -->
     <text x="600" y="375" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="500" fill="#64748b">
-      Verified Pricing &bull; Free Tier Details &bull; Market Valuations &bull; Open-Source Star Rankings
+      Verified Pricing &amp;bull; Free Tier Details &amp;bull; Market Valuations &amp;bull; Open-Source Star Rankings
     </text>
   </g>
 </svg>
