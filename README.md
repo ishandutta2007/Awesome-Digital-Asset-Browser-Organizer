@@ -64,7 +64,7 @@ The table below lists leading commercial and SaaS digital asset browser and mana
 
 Explore the most popular open-source and self-hosted digital asset managers, photo vaults, and cataloging utilities. Ranked in **descending order by GitHub stargazers**:
 
-| Repository | GitHub Stars Badge | Description | Primary Stack | License |
+| Repository | GitHub_Stars_Badge | Description | Primary Stack | License |
 | :--- | :---: | :--- | :--- | :--- |
 | **[Immich](https://github.com/immich-app/immich)** | [![Immich Stars](https://img.shields.io/github/stars/immich-app/immich?style=social&color=white)](https://github.com/immich-app/immich/stargazers) | High-performance, self-hosted photo &amp; video backup suite with facial recognition, semantic CLIP search, and native mobile apps. | TypeScript, Dart, Python | AGPL-3.0 |
 | **[PhotoPrism](https://github.com/photoprism/photoprism)** | [![PhotoPrism Stars](https://img.shields.io/github/stars/photoprism/photoprism?style=social&color=white)](https://github.com/photoprism/photoprism/stargazers) | AI-powered personal photo manager featuring automatic categorization, face identification, geocoding maps, and WebDAV sync. | Go, Vue.js, TensorFlow | AGPL-3.0 |
@@ -112,7 +112,7 @@ Contributions are warmly encouraged! Help keep this directory accurate, up to da
 2. 🌿 Create a feature branch: `git checkout -b feature/new-asset-tool`.
 3. ✏️ Add or update entries following the established table structure:
    - For SaaS tools: include verified starting tier pricing, explicit free tier / trial terms, and company scale valuation metrics.
-   - For open-source tools: include official GitHub repo link, social star badge linking to `/stargazers`, and primary technology stack.
+   - For open-source tools: include official GitHub repo link, social Stars_Badge linking to `/stargazers`, and primary technology stack.
 4. 🚀 Commit your updates: `git commit -m "Add [Tool Name] with pricing and specs"`.
 5. 📤 Push to your fork: `git push origin feature/new-asset-tool`.
 6. 📬 Submit a **Pull Request** detailing your additions.
